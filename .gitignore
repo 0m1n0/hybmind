@@ -131,3 +131,5 @@ dmypy.json
 /figures/*
 .DS_store
 *.DS_store
+
+.idea/
