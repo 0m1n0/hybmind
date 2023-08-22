@@ -11,6 +11,7 @@ pandas = "^2.0.3"
 matplotlib = "^3.7.2"
 rdkit = "^2023.3.3"
 rdchiral = "^1.1.0"
+openpyxl = "^3.1.2"
 
 [tool.poetry.dev-dependencies]
 
