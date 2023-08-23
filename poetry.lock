@@ -466,6 +466,14 @@ MarkupSafe = ">=2.0"
 i18n = ["Babel (>=2.7)"]
 
 [[package]]
+name = "joblib"
+version = "1.3.2"
+description = "Lightweight pipelining with Python functions"
+category = "main"
+optional = false
+python-versions = ">=3.7"
+
+[[package]]
 name = "json5"
 version = "0.9.14"
 description = "A Python implementation of the JSON5 data format."
@@ -1529,7 +1537,7 @@ python-versions = ">=3.7"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.10"
-content-hash = "9fc89c6ed2e1a9272fe577e04a5085f0431d16ebf27d4fc49affdb07574294e9"
+content-hash = "638722fce3e4b7983e1ed33968126d2b7bdbabc1cab1c27ce245d33e4460b45a"
 
 [metadata.files]
 anyio = []
@@ -1568,6 +1576,7 @@ ipywidgets = []
 isoduration = []
 jedi = []
 jinja2 = []
+joblib = []
 json5 = []
 jsonpointer = []
 jsonschema = []
